@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sidd Learns Git. UwU.
 Use the left arrow to go back!
